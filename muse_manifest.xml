@@ -1,0 +1,80 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="muse.com" resolutions="1x" timestamp="1475668539653">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="3831555041" ref="index"/>
+    <file name="_____-_______.css" crc="14272509" ref="أنشطة-الجمعية"/>
+    <file name="_____.css" crc="4236848427" ref="أنشطة"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:أنشطة-الجمعية:أنشطة"/>
+    <file name="museutils.js" crc="3851988764" ref="index:أنشطة-الجمعية:أنشطة"/>
+    <file name="whatinput.js" crc="86476730" ref="index:أنشطة-الجمعية:أنشطة"/>
+    <file name="museconfig.js" crc="169177150" ref="index:أنشطة-الجمعية:أنشطة"/>
+    <file name="pie.js" crc="3831537696" ref="index:أنشطة"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:أنشطة"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:أنشطة-الجمعية:أنشطة"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:أنشطة-الجمعية:أنشطة"/>
+    <file name="require.js" crc="4108833657" ref="index:أنشطة-الجمعية:أنشطة"/>
+  </folder>
+  <folder name="images">
+    <file name="1a68e277.jpg" crc="519368492" ref="index:أنشطة"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="man-hands-working-technology-large-u158-fr.jpg" crc="4260435895" ref="index"/>
+    <file name="apple-desk-designer-display-large-u160-fr.jpg" crc="78135359" ref="index"/>
+    <file name="hands-people-woman-working-large-u164-fr.jpg" crc="3762144359" ref="index"/>
+    <file name="coffee-desk-laptop-notebook-large-u163-fr.jpg" crc="4189695812" ref="index"/>
+    <file name="lec logo1.png" crc="4177894636" seo="true" ref="index:أنشطة"/>
+    <file name="20160720_184450.jpg" crc="3766842577" seo="true" ref="index"/>
+    <file name="20160720_184900.jpg" crc="4236127749" seo="true" ref="index"/>
+    <file name="dsc_0231.jpg" crc="486891969" seo="true" ref="index"/>
+    <file name="dsc_0343.jpg" crc="3947492044" seo="true" ref="index"/>
+    <file name="dsc_0449.jpg" crc="4234458018" seo="true" ref="index"/>
+    <file name="dsc_0719.jpg" crc="3937001781" seo="true" ref="index"/>
+    <file name="u142-4.png" crc="3863791912" ref="index"/>
+    <file name="u139-4.png" crc="3880161029" ref="index"/>
+    <file name="u1059-4.png" crc="414026548" ref="أنشطة"/>
+    <file name="man-hands-working-technology-large-u1062-fr.jpg" crc="4260435895" ref="أنشطة"/>
+    <file name="apple-desk-designer-display-large-u1107-fr.jpg" crc="78135359" ref="أنشطة"/>
+    <file name="hands-people-woman-working-large-u1027-fr.jpg" crc="3762144359" ref="أنشطة"/>
+    <file name="coffee-desk-laptop-notebook-large-u1156-fr.jpg" crc="4189695812" ref="أنشطة"/>
+    <file name="13691.png" crc="453957003" seo="true" ref="أنشطة"/>
+    <file name="u374-4.png" crc="3869685294" ref="index"/>
+    <file name="u310-4.png" crc="4249348105" ref="index"/>
+    <file name="u318-4.png" crc="4289662209" ref="index"/>
+    <file name="u326-4.png" crc="190357039" ref="index"/>
+    <file name="dsc00627.jpg" crc="315681399" seo="true" ref="index"/>
+    <file name="dsc00630.jpg" crc="409936214" seo="true" ref="index"/>
+    <file name="dsc00633.jpg" crc="3884866850" seo="true" ref="index"/>
+    <file name="dsc00635.jpg" crc="4242041317" seo="true" ref="index"/>
+    <file name="dsc00637.jpg" crc="166019019" seo="true" ref="index"/>
+    <file name="dsc00639.jpg" crc="3795599986" seo="true" ref="index"/>
+    <file name="dsc00649.jpg" crc="191958092" seo="true" ref="index"/>
+    <file name="u145-4.png" crc="71850459" ref="index"/>
+    <file name="dsc00615.jpg" crc="237442573" seo="true" ref="index"/>
+    <file name="dsc00623.jpg" crc="4213267355" seo="true" ref="index"/>
+    <file name="dsc00624.jpg" crc="3883554514" seo="true" ref="index"/>
+    <file name="dsc00647.jpg" crc="412135467" seo="true" ref="index"/>
+    <file name="dsc00650.jpg" crc="3817865639" seo="true" ref="index"/>
+    <file name="dsc_0214-crop-u3247.jpg" crc="64819635" ref="index"/>
+    <file name="dsc_0243-crop-u3267.jpg" crc="3833417754" ref="index"/>
+    <file name="dsc_0246-crop-u3287.jpg" crc="3784103217" ref="index"/>
+    <file name="dsc_0256-crop-u3307.jpg" crc="418799940" ref="index"/>
+    <file name="dsc_0260-crop-u3327.jpg" crc="4194595125" ref="index"/>
+    <file name="dsc_0277-crop-u3347.jpg" crc="3789709644" ref="index"/>
+    <file name="dsc_0281-crop-u3367.jpg" crc="437557578" ref="index"/>
+    <file name="dsc_0303-crop-u3387.jpg" crc="3764066478" ref="index"/>
+    <file name="dsc_0316-crop-u3407.jpg" crc="401046072" ref="index"/>
+    <file name="dsc_0347-crop-u3427.jpg" crc="4246036895" ref="index"/>
+    <file name="dsc_0375-crop-u3447.jpg" crc="242387842" ref="index"/>
+    <file name="dsc_0445-crop-u3467.jpg" crc="3988168957" ref="index"/>
+    <file name="dsc_0475-crop-u3487.jpg" crc="4228071037" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3831996385" seo="true" mt="1475668444709" redirect="true"/>
+  <file name="أنشطة-الجمعية.html" crc="4019294509" seo="true" mt="1474144954312" redirect="false"/>
+  <file name="أنشطة.html" crc="4089702160" seo="true" mt="1474146521630" redirect="true"/>
+</manifest>
